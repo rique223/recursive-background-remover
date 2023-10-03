@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.1.1",
+    "@types/ndarray": "^1.0.12",
+    "@types/node": "^20.7.0",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "start:dev": "npx nodemon"
+  }
+}

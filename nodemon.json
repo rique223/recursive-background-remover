@@ -1,0 +1,6 @@
+{
+    "watch": ["src"],
+    "ext": ".mjs",
+    "ignore": [],
+    "exec": "rm -rf output && node index.mjs"
+  }
