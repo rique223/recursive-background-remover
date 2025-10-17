@@ -1,5 +1,5 @@
 # recursive-background-remover
-Small nodejs project that removes backgrounds from images inside of nested windows directories using imgly's AI background removal tool.
+Nodejs project that removes backgrounds from images inside of nested windows directories using imgly's AI background removal tool.
 
 # How does it work?
 The algorithm will traverse all the folders and sub-folders of the `assets/arquivo` folder inside of the root of the app (if the folder doesn't exist you can go ahead and create it manually) and run imgly's background removal AI in all images found;
